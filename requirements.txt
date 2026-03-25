@@ -1,0 +1,4 @@
+# No external dependencies — uses Python standard library only
+# Optional: install for extended features
+# boto3>=1.34.0       # for AWS CloudTrail ingestion
+# requests>=2.31.0    # for Okta/Azure AD API polling
